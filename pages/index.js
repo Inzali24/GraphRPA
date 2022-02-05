@@ -7,7 +7,7 @@ import Grid from '@mui/material/Grid';
 import TextField from '@mui/material/TextField';
 import Button from '@mui/material/Button';
 
-const input = props => {
+const Home = props => {
   const [textInput, setTextInput] = React.useState('');
 
   const handleClick = () => {
